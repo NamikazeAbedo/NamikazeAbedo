@@ -1,16 +1,37 @@
 ## Hi there 👋
 
+
+# Hi 👋 I'm Namikaze Otaku
+
+💻 Beginner programmer learning C and game development  
+🎮 Interested in game programming with Raylib  
+🌱 Currently learning:
+- C
+- C++
+  <!--
+  -c#
+  -jav
+  - Game development
+  - Linux
+   -->
+
+
+## Projects
+
+🔹 Small C programs
 <!--
-**NamikazeAbedo/NamikazeAbedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 Raylib learning projects  
 -->
+
+## Tools I use
+- VS Code
+- Git
+  <!--
+  - Linux
+-->
+
+## Goals
+🚀 Become better at programming.
+<!--
+-->
+![Banner](squint.png)
