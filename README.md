@@ -14,6 +14,7 @@
 ## Projects
 
 🔹 Small C programs
+🔹 Small C++ programs
 <!--
 🔹 Raylib learning projects  
 -->
