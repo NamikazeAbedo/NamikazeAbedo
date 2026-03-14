@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-# Hi 👋 I'm Namikaze Otaku
-
-💻 Beginner programmer learning C and game development  
-🎮 Interested in game programming with Raylib  
 🌱 Currently learning:
 - C
 - C++
